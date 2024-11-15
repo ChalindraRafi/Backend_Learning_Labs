@@ -13,6 +13,11 @@ cukup sekian yang dapat saya sampaikan, atas banyak kekurangan saya mohon maaf y
 
 Terimakasih!
 
+revisi-> file laravel saya pindah dan berhasil saya push ke repository yang lain, berikut linknya:
+https://github.com/ChalindraRafi/huhuhu
+
+sekian terima kasih!
+
 
 
 
